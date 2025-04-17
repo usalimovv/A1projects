@@ -1,0 +1,15 @@
+D:\modul1\gitHub\A1projects\srs\bin\Debug\net8.0\srs.exe
+D:\modul1\gitHub\A1projects\srs\bin\Debug\net8.0\srs.deps.json
+D:\modul1\gitHub\A1projects\srs\bin\Debug\net8.0\srs.runtimeconfig.json
+D:\modul1\gitHub\A1projects\srs\bin\Debug\net8.0\srs.dll
+D:\modul1\gitHub\A1projects\srs\bin\Debug\net8.0\srs.pdb
+D:\modul1\gitHub\A1projects\srs\obj\Debug\net8.0\srs.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul1\gitHub\A1projects\srs\obj\Debug\net8.0\srs.AssemblyInfoInputs.cache
+D:\modul1\gitHub\A1projects\srs\obj\Debug\net8.0\srs.AssemblyInfo.cs
+D:\modul1\gitHub\A1projects\srs\obj\Debug\net8.0\srs.csproj.CoreCompileInputs.cache
+D:\modul1\gitHub\A1projects\srs\obj\Debug\net8.0\srs.sourcelink.json
+D:\modul1\gitHub\A1projects\srs\obj\Debug\net8.0\srs.dll
+D:\modul1\gitHub\A1projects\srs\obj\Debug\net8.0\refint\srs.dll
+D:\modul1\gitHub\A1projects\srs\obj\Debug\net8.0\srs.pdb
+D:\modul1\gitHub\A1projects\srs\obj\Debug\net8.0\srs.genruntimeconfig.cache
+D:\modul1\gitHub\A1projects\srs\obj\Debug\net8.0\ref\srs.dll
