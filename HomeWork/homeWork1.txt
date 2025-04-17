@@ -1,0 +1,220 @@
+namespace project1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //1
+            /*
+            Console.WriteLine("Enter number : ");
+
+            var number = Convert.ToInt32(Console.ReadLine());
+
+            for (var i = 1; i <= number; i++)
+            {
+                Console.WriteLine(i);
+            }*/
+            //2
+            /*Console.Write("Enter number : ");
+
+            var number = Convert.ToInt32(Console.ReadLine());
+
+            int sum = 0;
+            for (var i = 1; i < number; i++)
+            {
+                sum += number / i;
+            }
+
+            if ((sum == number + 1)||(number==2))
+            {
+                Console.WriteLine("The number is prime");
+            }
+            else
+            {
+                Console.WriteLine("The number is not prime");
+
+            }*/
+
+            //3
+            /*Console.Write("Natural son kiritng : ");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Kiritilgan natural son juftmi ? ");
+            Console.WriteLine("Result :");
+            if (number % 2 == 0)
+            {
+                Console.WriteLine(true);
+            }
+            else
+            {
+                Console.WriteLine(false);
+            }*/
+            //4
+            /*
+            Console.Write("Enter number : ");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Result :");
+            if(number > 9 && number < 100)
+            {
+                Console.Write("Berilgan son ikki xonali");
+            }
+            else
+            {
+                Console.Write("Berilgan son ikki xonali EMAS!");
+            }
+            Console.WriteLine();
+            */
+            //5
+            /*
+            Console.Write("Enter number : ");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            if (number % 2 == 0 && number > 999 && number < 10000)
+            {
+                Console.WriteLine(true);
+            }
+            else
+            {
+                Console.WriteLine(false);
+            }*/
+            //6
+            /*
+            Console.Write("Enter num : ");
+
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            var r1 = number / 10;
+            var r2 = number % 10;
+
+            if (r1 + r2 > 10)
+            {
+                Console.WriteLine(true);
+            }
+            else
+            {
+                Console.WriteLine(false);
+            }*/
+            //7
+            /*
+            Console.Write("Enter num : ");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            if(number % 3 == 0)
+            {
+                Console.WriteLine(true);
+            }
+            else
+            {
+                Console.WriteLine(false);
+            }*/
+            //8
+            /*Console.Write("Enter num : ");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            if (number % 5 != 0)
+            {
+                Console.WriteLine(true);
+            }
+            else
+            {
+                Console.WriteLine(false);
+            }*/
+            //9
+            /*Console.Write("Enter number1 : ");
+            int firstNumber = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter number2 : ");
+            int secondNumber = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter number3 : ");
+            int tridNumber = Convert.ToInt32(Console.ReadLine());
+
+            if(firstNumber > secondNumber && tridNumber > secondNumber)
+            {
+                Console.WriteLine(true);
+            }
+            else
+            {
+                Console.WriteLine(false);
+            }*/
+            //10
+            /*Console.Write("enter first nubmer: ");
+            int firtsNumber = Convert.ToInt32(Console.ReadLine());
+            Console.Write("enter second nubmer: ");
+            int secondNumber = Convert.ToInt32(Console.ReadLine());
+
+            if (firtsNumber > secondNumber)
+            {
+                Console.WriteLine("great value" + firtsNumber);
+            }
+            else
+            {
+                Console.WriteLine("great value" + secondNumber);
+            }*/
+            //11
+            /*Console.WriteLine("Enter num1 : ");
+            int firstNumber = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter num2 : ");
+            int secondNumber = Convert.ToInt32(Console.ReadLine());
+
+            if(firstNumber > 9 && firstNumber <100 && secondNumber > 9 && secondNumber < 100)
+            {
+                Console.WriteLine("res >> " + (firstNumber+secondNumber));
+            }
+            else
+            {
+                Console.WriteLine("res >> " + (firstNumber * secondNumber));
+            }*/
+            //12
+            /*Console.Write("Enter number1 : ");
+            int firstNumber = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter number2 : ");
+            int secondtNumber = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter number3 : ");
+            int tridNumber = Convert.ToInt32(Console.ReadLine());
+
+            var counter = 0;
+            if (firstNumber % 2 != 0)
+            {
+                counter++;
+            } if(secondtNumber % 2 != 0)
+            {
+                counter++;
+            } if (tridNumber%2!=0)
+            {
+                counter++;
+            }
+            Console.WriteLine(counter + "ta toq son bor");*/
+            //13
+            /*Console.Write("Enter number : ");
+            var number = Convert.ToInt32(Console.ReadLine());
+
+            var r1 = number / 10 % 10;
+            var r2 = number % 10;
+
+            var res = number / 100 * 100 + r2 * 10 + r1;
+
+            Console.Write("Result : " + res);
+            Console.WriteLine();*/
+            //14
+            /*Console.Write("Enter GB : ");
+            var gb = Convert.ToDouble(Console.ReadLine());
+
+            var  bit = gb * 1024 * 1024 * 1024 * 8;
+
+            Console.WriteLine("res : " + bit);*/
+
+
+
+            Main(args);
+
+        }
+    }
+}
+
+
+
+
+
+
+
+
