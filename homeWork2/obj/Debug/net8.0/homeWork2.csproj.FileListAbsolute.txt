@@ -1,0 +1,15 @@
+D:\modul1\gitHub\A1projects\homeWork2\bin\Debug\net8.0\homeWork2.exe
+D:\modul1\gitHub\A1projects\homeWork2\bin\Debug\net8.0\homeWork2.deps.json
+D:\modul1\gitHub\A1projects\homeWork2\bin\Debug\net8.0\homeWork2.runtimeconfig.json
+D:\modul1\gitHub\A1projects\homeWork2\bin\Debug\net8.0\homeWork2.dll
+D:\modul1\gitHub\A1projects\homeWork2\bin\Debug\net8.0\homeWork2.pdb
+D:\modul1\gitHub\A1projects\homeWork2\obj\Debug\net8.0\homeWork2.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul1\gitHub\A1projects\homeWork2\obj\Debug\net8.0\homeWork2.AssemblyInfoInputs.cache
+D:\modul1\gitHub\A1projects\homeWork2\obj\Debug\net8.0\homeWork2.AssemblyInfo.cs
+D:\modul1\gitHub\A1projects\homeWork2\obj\Debug\net8.0\homeWork2.csproj.CoreCompileInputs.cache
+D:\modul1\gitHub\A1projects\homeWork2\obj\Debug\net8.0\homeWork2.sourcelink.json
+D:\modul1\gitHub\A1projects\homeWork2\obj\Debug\net8.0\homeWork2.dll
+D:\modul1\gitHub\A1projects\homeWork2\obj\Debug\net8.0\refint\homeWork2.dll
+D:\modul1\gitHub\A1projects\homeWork2\obj\Debug\net8.0\homeWork2.pdb
+D:\modul1\gitHub\A1projects\homeWork2\obj\Debug\net8.0\homeWork2.genruntimeconfig.cache
+D:\modul1\gitHub\A1projects\homeWork2\obj\Debug\net8.0\ref\homeWork2.dll
